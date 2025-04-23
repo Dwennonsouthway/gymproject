@@ -18,8 +18,8 @@ VALUES
 
 INSERT INTO post_images (post_id, image_url)
 VALUES
-(1, '/uploads/posts/1000_1.jpg'),
-(2, '/uploads/posts/1001_1.jpg'),
-(2, '/uploads/posts/1001_2.jpg'),
-(3, '/uploads/posts/1002_1.jpg'),
-(4, 'https://randomuser.me/api/portraits/men/22.jpg');
+(1, 'https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'),
+(2, 'https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'),
+(2, 'https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'),
+(3, 'https://images.pexels.com/photos/917732/pexels-photo-917732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'),
+(4, 'https://images.pexels.com/photos/949126/pexels-photo-949126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
