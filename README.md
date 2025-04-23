@@ -56,13 +56,13 @@
 2. 匯入 data.sql 插入範例資料
 
 ### 前端 Vue 專案
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 ### 後端 Spring Boot 專案
-cd backend
-mvn spring-boot:run
+- cd backend
+- mvn spring-boot:run
 
 --
 
